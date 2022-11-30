@@ -48,5 +48,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Hypotension as a Risk Factor for Acute Kidney Injury in ICU Patients.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1Rc3AKZXo27Kap-WvkgFnx8D1xBMhgHi8/view?usp=share_link">
+          [ComCar2010]
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
