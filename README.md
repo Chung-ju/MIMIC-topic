@@ -12,7 +12,7 @@
 </ul>
 </details>
 
-##### Acute Kidney Injury (AKI)
+#### Acute Kidney Injury (AKI)
 
 <table>
   <tbody>
