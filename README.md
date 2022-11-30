@@ -12,7 +12,7 @@
 </ul>
 </details>
 
-#### Acute Kidney Injury (AKI)
+##### Acute Kidney Injury (AKI)
 
 <table>
   <tbody>
@@ -30,6 +30,7 @@
         </a>
       </td>
     </tr>
+    <tr>
       <td align="left">Serum Anion Gap Predicts All-Cause Mortality in Critically Ill Patients with Acute Kidney Injury: Analysis of the MIMIC-III Database.</td>
       <td align="center">Journal</td>
       <td align="center">
@@ -37,7 +38,15 @@
           Hindawi2020
         </a>
       </td>
+    </tr>
     <tr>
+      <td align="left">Outcome of Critically ill Patients with Acute Kidney Injury using the AKIN Criteria.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1FoyKyeC0UNPJED1Qdib1MRj9y8VGeLP5/view?usp=share_link">
+          CCM2011
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
