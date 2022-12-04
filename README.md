@@ -129,5 +129,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Mortality, disease progression, and disease burden of acute kidney injury in alcohol use disorder subpopulation.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1urUv4PJryEqnM1q6hX-P5j2J0ceFYGbh/view?usp=share_link">
+          AJMS2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
