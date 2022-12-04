@@ -85,6 +85,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Utilizing imbalanced electronic health records to predict acute kidney injury by ensemble learning and time series model.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1SXNvSVlVXcIuKA6zg4o3pJJgd3T3eyn3/view?usp=share_link">
+          MIDM2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Effects of ondansetron use on outcomes of acute kidney injury in critically ill patients: An analysis based on the MIMIC-IV database.</td>
       <td align="center">Journal</td>
       <td align="center">
