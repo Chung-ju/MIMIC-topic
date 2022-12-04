@@ -121,6 +121,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Interpretable and continuous prediction of acute kidney injury in the intensive care.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/11Vlsw4by874rrjwrzaaeKD5a9sYXrp0W/view?usp=share_link">
+          PHI2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Association between predialysis creatinine and mortality in acute kidney injury patients requiring dialysis.</td>
       <td align="center">Journal</td>
       <td align="center">
