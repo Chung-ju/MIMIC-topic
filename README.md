@@ -17,7 +17,7 @@
 <table>
   <tbody>
     <tr>
-      <th>Name</th>
+      <th>Title</th>
       <th align="center">Type</th>
       <th align="center">Link</th>
     </tr>
