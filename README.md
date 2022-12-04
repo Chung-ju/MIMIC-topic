@@ -94,6 +94,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">A novel hybrid deep learning architecture for predicting acute kidney injury using patient record data and ultrasound kidney images.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1mw7FegRcdTy0WwfqTfye5F6xS_Ueypjl/view?usp=share_link">
+          AppAI2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Association between predialysis creatinine and mortality in acute kidney injury patients requiring dialysis.</td>
       <td align="center">Journal</td>
       <td align="center">
