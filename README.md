@@ -75,5 +75,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Predicting acute kidney injury in critically ill patients using comorbid conditions utilizing machine learning.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1Z3R7AgUJCuJCKCmF-lu3AGmz3S9Sr8uk/view?usp=share_link">
+          CKJ2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
