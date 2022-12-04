@@ -40,6 +40,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Predicting in-hospital mortality of patients with acute kidney injury in the ICU using random forest model.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1ajcY2j9fgcI1KRHHVeQsgSJVZhbN1F3L/view?usp=share_link">
+          IJMI2019
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Serum Anion Gap Predicts All-Cause Mortality in Critically Ill Patients with Acute Kidney Injury: Analysis of the MIMIC-III Database.</td>
       <td align="center">Journal</td>
       <td align="center">
