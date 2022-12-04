@@ -130,6 +130,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">A Prediction model for assessing prognosis in critically ill patients with sepsis-associated acute kidney injury.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1xgTwQE1N2DIlupss4ZTkn0GuUsCJHabj/view?usp=share_link">
+          Shork2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Association between predialysis creatinine and mortality in acute kidney injury patients requiring dialysis.</td>
       <td align="center">Journal</td>
       <td align="center">
