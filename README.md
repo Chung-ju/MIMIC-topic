@@ -40,6 +40,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Obesity, Acute Kidney Injury, and Mortality in Critical Illness.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1Jh1PHKVZOypmWv5JCkZd0CtA4CM0VZ4c/view?usp=share_link">
+          CCM2017
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Early Prediction of Acute Kidney Injury in Critical Care Setting Using Clinical Notes.</td>
       <td align="center">Journal</td>
       <td align="center">
