@@ -40,6 +40,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Early Prediction of Acute Kidney Injury in Critical Care Setting Using Clinical Notes.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1pQvhrIJUTGP38KBFGH9Ncb7jhSqCDGmD/view?usp=share_link">
+          BIBM2018
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Predicting in-hospital mortality of patients with acute kidney injury in the ICU using random forest model.</td>
       <td align="center">Journal</td>
       <td align="center">
