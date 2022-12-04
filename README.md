@@ -103,6 +103,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Development and validation of a risk stratification model for predicting the mortality of acute kidney injury in critical care patients.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1iuoDmA3tBwoDUmYUbnbN6Oh4aT7guFft/view?usp=share_link">
+          ATM2021
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Association between predialysis creatinine and mortality in acute kidney injury patients requiring dialysis.</td>
       <td align="center">Journal</td>
       <td align="center">
