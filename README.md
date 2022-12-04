@@ -67,6 +67,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Nomogram to predict the risk of septic acute kidney injury in the first 24 h of admission.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1UpBx-M7rvtx90HnJv74xoMx0wAPFn24K/view?usp=share_link">
+          RenFail2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Effects of ondansetron use on outcomes of acute kidney injury in critically ill patients: An analysis based on the MIMIC-IV database.</td>
       <td align="center">Journal</td>
       <td align="center">
