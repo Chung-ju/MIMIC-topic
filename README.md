@@ -165,5 +165,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Developing an ensemble machine learning model for early prediction of sepsis-associated acute kidney injury.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1NMHWbWxZlo8lyhISSubI6SffYcocALWL/view?usp=share_link">
+          iScience2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
