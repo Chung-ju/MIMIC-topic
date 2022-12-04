@@ -84,5 +84,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Association between predialysis creatinine and mortality in acute kidney injury patients requiring dialysis.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1qnjmQH_QivCLoOvQKdkJQfKmkKKht4B_/view?usp=share_link">
+          PlosOne2022
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
