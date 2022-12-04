@@ -57,5 +57,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Nomogram to predict the risk of acute kidney injury in patients with diabetic ketoacidosis.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1NCApYYonnXJFxSKXis5xIqYe_mARJ9h2/view?usp=share_link">
+          BMCED2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
