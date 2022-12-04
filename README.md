@@ -66,5 +66,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Application of Machine Learning to Predict Acute Kidney Disease in Patients With Sepsis Associated Acute Kidney Injury.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/1Q8MzEnfowzcXDhCafjlRgNLTrGN0wjCn/view?usp=share_link">
+          FMed2021
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
