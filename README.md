@@ -6,9 +6,7 @@
 <summary><strong>Content</strong></summary>
 <ul>
   <li>Acute Kidney Injury (AKI)</li>
-  <!-- <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li> -->
+  <li>Systolic Blood Pressure (SBP)</li>
 </ul>
 </details>
 
