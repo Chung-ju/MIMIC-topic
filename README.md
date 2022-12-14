@@ -192,3 +192,24 @@
     </tr>
   </tbody>
 </table>
+
+#### Systolic Blood Pressure (SBP)
+
+<table>
+  <tbody>
+    <tr>
+      <th>Title</th>
+      <th align="center">Type</th>
+      <th align="center">Link</th>
+    </tr>
+    <tr>
+      <td align="left">Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.ahajournals.org/doi/full/10.1161/CIRCOUTCOMES.118.005122">
+          CCQO2019
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
