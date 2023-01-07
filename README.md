@@ -214,3 +214,24 @@
     </tr>
   </tbody>
 </table>
+
+#### Sepsis
+
+<table>
+  <tbody>
+    <tr>
+      <th>Title</th>
+      <th align="center">Type</th>
+      <th align="center">Link</th>
+    </tr>
+    <tr>
+      <td align="left">Predicting sepsis with a recurrent neural network using the MIMIC III database.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0010482519302720">
+          CBM2019
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
