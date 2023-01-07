@@ -7,6 +7,7 @@
 <ul>
   <li>Acute Kidney Injury (AKI)</li>
   <li>Systolic Blood Pressure (SBP)</li>
+  <li>Sepsis</li>
 </ul>
 </details>
 
