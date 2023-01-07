@@ -226,6 +226,15 @@
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td align="left">Transthoracic echocardiography and mortality in sepsis: analysis of the MIMIC-III database.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://dspace.mit.edu/bitstream/handle/1721.1/131429/134_2018_5208_ReferencePDF.pdf?sequence=1&isAllowed=y">
+          ICM2018
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Predicting sepsis with a recurrent neural network using the MIMIC III database.</td>
       <td align="center">Journal</td>
       <td align="center">
