@@ -243,5 +243,14 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Clinical applications of artificial intelligence in sepsis: A narrative review.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0010482519303567">
+          CBM2019
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
