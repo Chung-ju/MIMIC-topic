@@ -67,6 +67,15 @@
       </td>
     </tr>
     <tr>
+      <td align="left">Utilization of Deep Learning for Subphenotype Identification in Sepsis-Associated Acute Kidney Injury.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646246/">
+          CJASN2020
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="left">Serum Anion Gap Predicts All-Cause Mortality in Critically Ill Patients with Acute Kidney Injury: Analysis of the MIMIC-III Database.</td>
       <td align="center">Journal</td>
       <td align="center">
