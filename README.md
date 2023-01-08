@@ -18,8 +18,8 @@
   <tbody>
     <tr>
       <th>Title</th>
-      <th align="center">Type</th>
-      <th align="center">Link</th>
+      <th>Type</th>
+      <th>Link</th>
     </tr>
     <tr>
       <td align="left">Hypotension as a Risk Factor for Acute Kidney Injury in ICU Patients.</td>
@@ -249,6 +249,15 @@
       <td align="center">
         <a href="https://www.sciencedirect.com/science/article/pii/S0010482519303567">
           CBM2019
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">An Interpretable Machine Learning Model for Accurate Prediction of Sepsis in the ICU.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5851825/">
+          CCM2019
         </a>
       </td>
     </tr>
