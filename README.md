@@ -222,8 +222,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="left">Estimation and Tracking of Blood Pressure Using Routinely Acquired Photoplethysmographic Signals and Deep Neural Networks.</td>
+      <td align="center">Journal</td>
+      <td align="center">
+        <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7188414/">
+          CCE2020
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
+
 
 #### Sepsis
 
